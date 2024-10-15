@@ -16,14 +16,14 @@
 
 
 - vm901:
-    box: "bento/ubuntu-22.04"
+    box: "bento/ubuntu-24.04"
     memory: 2048
     vcpus: 2
     networks:
       "172.16.254.1": "172.16.254.2"
 
 # - vm902:
-#     box: "bento/ubuntu-22.04"
+#     box: "bento/ubuntu-24.04"
 #     memory: 2048
 #     vcpus: 2
 #     networks:
